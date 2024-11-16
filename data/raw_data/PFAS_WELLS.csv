@@ -1,0 +1,255 @@
+NAWQA_ID,STATE,AQUIFER,WELLTYPE,DEPTH
+MIAMSUS1-01,Indiana,Glacial  ,Domestic,19.20
+MIAMSUS1-02,Ohio,Glacial  ,Domestic,13.72
+MIAMSUS1-03,Ohio,Glacial  ,Domestic,19.81
+MIAMSUS1-04,Ohio,Glacial  ,Domestic,6.40
+MIAMSUS1-05,Ohio,Glacial  ,Domestic,11.89
+MIAMSUS1-06,Ohio,Glacial  ,Domestic,9.75
+MIAMSUS1-07,Ohio,Glacial  ,Domestic,18.29
+MIAMSUS1-08,Ohio,Glacial  ,Domestic,30.78
+MIAMSUS1-09,Ohio,Glacial  ,Domestic,18.29
+MIAMSUS1-10,Ohio,Glacial  ,Domestic,28.04
+MIAMSUS1-11,Ohio,Glacial  ,Domestic,20.73
+MIAMSUS1-12,Ohio,Glacial  ,Domestic,11.58
+MIAMSUS1-13,Ohio,Glacial  ,Domestic,17.07
+MIAMSUS1-14,Ohio,Glacial  ,Domestic,15.85
+MIAMSUS1-15,Ohio,Glacial  ,Domestic,24.38
+MIAMSUS1-16,Ohio,Glacial  ,Domestic,12.19
+MIAMSUS1-17,Ohio,Glacial  ,Domestic,22.86
+MIAMSUS1-18,Ohio,Glacial  ,Domestic,21.34
+MIAMSUS1-19,Ohio,Glacial  ,Domestic,12.50
+MIAMSUS1-20,Ohio,Glacial  ,Domestic,26.52
+MIAMSUS1-22,Ohio,Glacial  ,Domestic,14.63
+MIAMSUS1-23,Ohio,Glacial  ,Domestic,12.19
+MIAMSUS1-24,Ohio,Glacial  ,Domestic,30.48
+MIAMSUS1-25,Ohio,Glacial  ,Domestic,23.77
+MISESUS4-01,Mississippi,Mississippi Embayment,Other or unknown,99.06
+MISESUS4-02,Mississippi,Mississippi Embayment,Domestic,63.40
+MISESUS4-03,Mississippi,Mississippi Embayment,Public supply,135.94
+MISESUS4-04,Mississippi,Mississippi Embayment,Domestic,48.77
+MISESUS4-05,Mississippi,Mississippi Embayment,Domestic,15.24
+MISESUS4-06,Mississippi,Mississippi Embayment,Monitoring,67.06
+MISESUS4-07,Mississippi,Mississippi Embayment,Domestic,36.58
+MISESUS4-08,Mississippi,Mississippi Embayment,Domestic,22.56
+MISESUS4-09,Mississippi,Mississippi Embayment,Other or unknown,53.04
+MISESUS4-10,Mississippi,Mississippi Embayment,Other or unknown,160.02
+MISESUS4-11,Mississippi,Mississippi Embayment,Public supply,286.51
+MISESUS4-12,Tennessee,Mississippi Embayment,Public supply,53.04
+MISESUS4-13,Tennessee,Mississippi Embayment,Other or unknown,165.81
+MISESUS4-14,Tennessee,Mississippi Embayment,Public supply,95.71
+MISESUS4-15,Tennessee,Mississippi Embayment,Other or unknown,41.76
+MISESUS4-16,Tennessee,Mississippi Embayment,Domestic,42.67
+MISESUS4-17,Tennessee,Mississippi Embayment,Public supply,92.96
+MISESUS4-18,Tennessee,Mississippi Embayment,Public supply,134.11
+MISESUS4-19,Tennessee,Mississippi Embayment,Public supply,170.08
+MISESUS4-20,Tennessee,Mississippi Embayment,Public supply,171.60
+MISESUS4-21,Tennessee,Mississippi Embayment,Public supply,68.88
+MISESUS4-22,Tennessee,Mississippi Embayment,Public supply,88.39
+MISESUS4-23,Tennessee,Mississippi Embayment,Other or unknown,88.39
+MISESUS4-24,Tennessee,Mississippi Embayment,Public supply,79.25
+MISESUS4-25,Tennessee,Mississippi Embayment,Public supply,91.44
+MISESUS4-26,Tennessee,Mississippi Embayment,Public supply,161.54
+MISESUS4-27,Tennessee,Mississippi Embayment,Public supply,138.99
+MOBLSUS1-01,Mississippi,Southeastern Coastal Plain    ,Domestic,35.36
+MOBLSUS1-02,Mississippi,Southeastern Coastal Plain    ,Domestic,90.22
+MOBLSUS1-03,Mississippi,Southeastern Coastal Plain    ,Domestic,37.19
+MOBLSUS1-04,Mississippi,Southeastern Coastal Plain    ,Domestic,31.39
+MOBLSUS1-05,Mississippi,Southeastern Coastal Plain    ,Public supply,121.92
+MOBLSUS1-06,Mississippi,Southeastern Coastal Plain    ,Public supply,144.48
+MOBLSUS1-08,Alabama,Southeastern Coastal Plain    ,Other or unknown,141.73
+MOBLSUS1-09,Alabama,Southeastern Coastal Plain    ,Domestic,77.72
+MOBLSUS1-10,Alabama,Southeastern Coastal Plain    ,Domestic,53.95
+MOBLSUS1-11,Alabama,Southeastern Coastal Plain    ,Domestic,64.01
+MOBLSUS1-12,Alabama,Southeastern Coastal Plain    ,Domestic,50.60
+MOBLSUS1-13,Alabama,Southeastern Coastal Plain    ,Domestic,67.06
+MOBLSUS1-14,Alabama,Southeastern Coastal Plain    ,Domestic,18.90
+MOBLSUS1-15,Alabama,Southeastern Coastal Plain    ,Other or unknown,27.74
+MOBLSUS1-16,Alabama,Southeastern Coastal Plain    ,Domestic,32.92
+MOBLSUS1-17,Alabama,Southeastern Coastal Plain    ,Domestic,50.29
+MOBLSUS1-18,Alabama,Southeastern Coastal Plain    ,Domestic,35.05
+MOBLSUS1-19,Alabama,Southeastern Coastal Plain    ,Domestic,40.23
+MOBLSUS1-20,Alabama,Southeastern Coastal Plain    ,Public supply,152.40
+MOBLSUS1-21,Alabama,Southeastern Coastal Plain    ,Other or unknown,63.09
+MOBLSUS1-22,Alabama,Southeastern Coastal Plain    ,Public supply,
+MOBLSUS1-23,Alabama,Southeastern Coastal Plain    ,Public supply,
+MOBLSUS1-24,Alabama,Southeastern Coastal Plain    ,Domestic,91.44
+MOBLSUS1-25,Alabama,Southeastern Coastal Plain    ,Other or unknown,105.16
+MOBLSUS1-26,Alabama,Southeastern Coastal Plain    ,Public supply,170.38
+MOBLSUS1-27,Alabama,Southeastern Coastal Plain    ,Other or unknown,
+MOBLSUS1-28,Alabama,Southeastern Coastal Plain    ,Domestic,47.24
+MOBLSUS1-29,Alabama,Southeastern Coastal Plain    ,Domestic,39.62
+MOBLSUS1-30,Alabama,Southeastern Coastal Plain    ,Other or unknown,
+MOBLSUS1-31,Mississippi,Southeastern Coastal Plain    ,Public supply,43.89
+NECBLUSRC1-01,Massachusetts,Glacial   ,Monitoring,6.10
+NECBLUSRC1-02,Massachusetts,Glacial   ,Monitoring,9.14
+NECBLUSRC1-03,Massachusetts,Glacial   ,Monitoring,7.92
+NECBLUSRC1-04,Massachusetts,Glacial   ,Monitoring,9.75
+NECBLUSRC1-05,Massachusetts,Glacial   ,Monitoring,9.14
+NECBLUSRC1-06,Massachusetts,Glacial   ,Monitoring,9.75
+NECBLUSRC1-07,Massachusetts,Glacial   ,Monitoring,6.10
+NECBLUSRC1-08,Massachusetts,Glacial   ,Monitoring,7.32
+NECBLUSRC1-09,Massachusetts,Glacial   ,Monitoring,7.62
+NECBLUSRC1-10,Massachusetts,Glacial   ,Monitoring,5.49
+NECBLUSRC1-11,Massachusetts,Glacial   ,Monitoring,10.67
+NECBLUSRC1-12,Massachusetts,Glacial   ,Monitoring,5.49
+NECBLUSRC1-13,Massachusetts,Glacial   ,Monitoring,7.01
+NECBLUSRC1-14,Massachusetts,Glacial   ,Monitoring,4.57
+NECBLUSRC1-15,Massachusetts,Glacial   ,Monitoring,4.57
+NECBLUSRC1-16,Massachusetts,Glacial   ,Monitoring,12.19
+NECBLUSRC1-17,Massachusetts,Glacial   ,Monitoring,7.62
+NECBLUSRC1-18,Massachusetts,Glacial   ,Monitoring,14.94
+NECBLUSRC1-19,Massachusetts,Glacial   ,Monitoring,3.35
+NECBLUSRC1-20,Massachusetts,Glacial   ,Monitoring,9.14
+NECBLUSRC1-21,Massachusetts,Glacial   ,Monitoring,6.10
+NECBLUSRC1-22,Massachusetts,Glacial   ,Monitoring,10.52
+NECBLUSRC1-23,Massachusetts,Glacial   ,Monitoring,9.14
+NECBLUSRC1-24,Massachusetts,Glacial   ,Monitoring,13.11
+NECBLUSRC1-25,Massachusetts,Glacial   ,Monitoring,5.79
+NECBLUSRC1-26,Massachusetts,Glacial   ,Monitoring,9.75
+NECBLUSRC1-27,Massachusetts,Glacial   ,Monitoring,2.44
+NECBLUSRC1-28,New Hampshire,Glacial   ,Monitoring,7.77
+NECBSUS3-01,Rhode Island,Glacial   ,Public supply,21.95
+NECBSUS3-02,Rhode Island,Glacial   ,Public supply,15.24
+NECBSUS3-03,Rhode Island,Glacial   ,Public supply,28.96
+NECBSUS3-04,Massachusetts,Glacial   ,Public supply,21.95
+NECBSUS3-05,Massachusetts,Glacial   ,Public supply,50.60
+NECBSUS3-06,Massachusetts,Glacial   ,Public supply,20.12
+NECBSUS3-07,Massachusetts,Glacial   ,Public supply,14.33
+NECBSUS3-08,Massachusetts,Glacial   ,Public supply,11.89
+NECBSUS3-09,Massachusetts,Glacial   ,Public supply,28.35
+NECBSUS3-10,Massachusetts,Glacial   ,Public supply,19.20
+NECBSUS3-11,Massachusetts,Glacial   ,Public supply,17.68
+NECBSUS3-12,Massachusetts,Glacial   ,Public supply,18.14
+NECBSUS3-13,Massachusetts,Glacial   ,Public supply,8.99
+NECBSUS3-14,Massachusetts,Glacial   ,Public supply,18.90
+NECBSUS3-15,Massachusetts,Glacial   ,Public supply,9.91
+NECBSUS3-16,Massachusetts,Glacial   ,Public supply,17.98
+NECBSUS3-17,New Hampshire,Glacial   ,Other or unknown,14.94
+NECBSUS3-18,New Hampshire,Glacial   ,Public supply,9.14
+NECBSUS3-19,New Hampshire,Glacial   ,Public supply,8.53
+NECBSUS3-20,New Hampshire,Glacial   ,Public supply,12.50
+NECBSUS3-21,New Hampshire,Glacial   ,Public supply,11.58
+NECBSUS3-22,New Hampshire,Glacial   ,Public supply,23.47
+NECBSUS3-23,New Hampshire,Glacial   ,Public supply,18.29
+NECBSUS3-24,Maine,Glacial   ,Public supply,13.72
+NECBSUS3-25,Maine,Glacial   ,Public supply,24.99
+NECBSUS3-26,Maine,Glacial   ,Public supply,16.46
+NECBSUS3-27,Maine,Glacial   ,Public supply,22.86
+STRVPAS2-01,Illinois,Stream Valley    ,Public supply,73.15
+STRVPAS2-02,Illinois,Stream Valley    ,Public supply,283.46
+STRVPAS2-03,Illinois,Stream Valley    ,Public supply,123.44
+STRVPAS2-04,Illinois,Stream Valley    ,Public supply,152.40
+STRVPAS2-05,Illinois,Stream Valley    ,Public supply,39.62
+STRVPAS2-06,Illinois,Stream Valley    ,Public supply,24.99
+STRVPAS2-07,Illinois,Stream Valley    ,Public supply,18.29
+STRVPAS2-08,Indiana,Stream Valley    ,Public supply,23.47
+STRVPAS2-09,Indiana,Stream Valley    ,Public supply,30.18
+STRVPAS2-10,Indiana,Stream Valley    ,Public supply,29.87
+STRVPAS2-11,Indiana,Stream Valley    ,Public supply,30.18
+STRVPAS2-12,Indiana,Stream Valley    ,Public supply,38.71
+STRVPAS2-13,Indiana,Stream Valley    ,Public supply,21.34
+STRVPAS2-14,Indiana,Stream Valley    ,Public supply,36.58
+STRVPAS2-15,Indiana,Stream Valley    ,Public supply,25.91
+STRVPAS2-16,Indiana,Stream Valley    ,Public supply,33.53
+STRVPAS2-17,Indiana,Stream Valley    ,Public supply,26.21
+STRVPAS2-18,Indiana,Stream Valley    ,Public supply,21.95
+STRVPAS2-19,Indiana,Stream Valley    ,Public supply,32.00
+STRVPAS2-20,Kentucky,Stream Valley    ,Public supply,32.92
+STRVPAS2-21,Kentucky,Stream Valley    ,Public supply,38.10
+STRVPAS2-22,Kentucky,Stream Valley    ,Public supply,22.56
+STRVPAS2-23,Kentucky,Stream Valley    ,Public supply,21.64
+STRVPAS2-24,Kentucky,Stream Valley    ,Public supply,41.15
+STRVPAS2-25,Kentucky,Stream Valley    ,Public supply,30.78
+STRVPAS2-26,Kentucky,Stream Valley    ,Public supply,31.39
+STRVPAS2-27,West Virgninia,Stream Valley    ,Public supply,27.43
+STRVPAS2-28,West Virgninia,Stream Valley    ,Public supply,
+STRVPAS2-29,West Virgninia,Stream Valley    ,Public supply,
+STRVPAS2-30,West Virgninia,Stream Valley    ,Public supply,
+STRVPAS2-31,West Virgninia,Stream Valley    ,Public supply,25.91
+STRVPAS2-32,Ohio,Stream Valley    ,Public supply,
+STRVPAS2-33,Ohio,Stream Valley    ,Public supply,16.46
+STRVPAS2-34,Ohio,Stream Valley    ,Public supply,17.37
+STRVPAS2-35,Ohio,Stream Valley    ,Public supply,23.16
+STRVPAS2-36,Ohio,Stream Valley    ,Public supply,19.81
+STRVPAS2-37,Ohio,Stream Valley    ,Public supply,22.86
+STRVPAS2-38,Ohio,Stream Valley    ,Public supply,20.12
+STRVPAS2-39,Ohio,Stream Valley    ,Public supply,20.42
+STRVPAS2-40,Ohio,Stream Valley    ,Public supply,18.29
+STRVPAS2-41,Ohio,Stream Valley    ,Public supply,21.79
+STRVPAS2-42,Ohio,Stream Valley    ,Public supply,24.38
+STRVPAS2-43,Ohio,Stream Valley    ,Public supply,36.58
+STRVPAS2-44,Ohio,Stream Valley    ,Public supply,21.64
+STRVPAS2-45,Ohio,Stream Valley    ,Public supply,24.08
+STRVPAS2-46,Ohio,Stream Valley    ,Public supply,27.74
+STRVPAS2-47,Ohio,Stream Valley    ,Public supply,24.08
+STRVPAS2-48,Ohio,Stream Valley    ,Public supply,26.82
+STRVPAS2-49,Ohio,Stream Valley    ,Public supply,21.95
+STRVPAS2-50,Indiana,Stream Valley    ,Public supply,40.23
+STRVPAS2-51,Ohio,Stream Valley    ,Public supply,24.38
+STRVPAS2-52,Pennsylvania,Stream Valley    ,Public supply,23.16
+STRVPAS2-53,Pennsylvania,Stream Valley    ,Public supply,
+STRVPAS2-54,Pennsylvania,Stream Valley    ,Public supply,15.24
+STRVPAS2-55,Pennsylvania,Stream Valley    ,Public supply,14.94
+STRVPAS2-56,Pennsylvania,Stream Valley    ,Public supply,38.10
+STRVPAS2-57,Pennsylvania,Stream Valley    ,Public supply,29.87
+STRVPAS2-58,Pennsylvania,Stream Valley    ,Public supply,14.02
+STRVPAS2-59,Pennsylvania,Stream Valley    ,Public supply,18.29
+SURFPAS1-01,Florida,Surficial   ,Public supply,6.40
+SURFPAS1-02,Florida,Surficial   ,Public supply,26.52
+SURFPAS1-03,Florida,Surficial   ,Public supply,32.00
+SURFPAS1-04,Florida,Surficial   ,Public supply,24.38
+SURFPAS1-05,Florida,Surficial   ,Public supply,25.91
+SURFPAS1-06,Florida,Surficial   ,Public supply,18.90
+SURFPAS1-07,Florida,Surficial   ,Public supply,12.19
+SURFPAS1-08,Florida,Surficial   ,Public supply,10.67
+SURFPAS1-09,Florida,Surficial   ,Public supply,12.19
+SURFPAS1-10,Florida,Surficial   ,Public supply,9.14
+SURFPAS1-11,Florida,Surficial   ,Public supply,41.15
+SURFPAS1-12,Florida,Surficial   ,Public supply,25.91
+SURFPAS1-13,Florida,Surficial   ,Public supply,30.48
+SURFPAS1-14,Florida,Surficial   ,Public supply,26.82
+SURFPAS1-15,Florida,Surficial   ,Public supply,36.58
+SURFPAS1-16,Florida,Surficial   ,Public supply,45.72
+SURFPAS1-17,Florida,Surficial   ,Public supply,47.24
+SURFPAS1-18,Florida,Surficial   ,Public supply,33.53
+SURFPAS1-19,Florida,Surficial   ,Public supply,36.58
+SURFPAS1-20,Florida,Surficial   ,Public supply,81.38
+SURFPAS1-21,Florida,Surficial   ,Public supply,47.24
+SURFPAS1-22,Florida,Surficial   ,Public supply,38.10
+SURFPAS1-23,Florida,Surficial   ,Public supply,38.10
+SURFPAS1-24,Florida,Surficial   ,Public supply,33.83
+SURFPAS1-25,Florida,Surficial   ,Public supply,24.38
+SURFPAS1-26,Florida,Surficial   ,Public supply,32.00
+SURFPAS1-27,Florida,Surficial   ,Public supply,24.38
+SURFPAS1-28,Florida,Surficial   ,Public supply,
+SURFPAS1-29,Florida,Surficial   ,Public supply,35.05
+SURFPAS1-30,Florida,Surficial   ,Public supply,29.87
+SURFPAS1-31,Florida,Surficial   ,Public supply,31.39
+SURFPAS1-32,Florida,Surficial   ,Public supply,28.35
+SURFPAS1-33,Florida,Surficial   ,Public supply,30.48
+SURFPAS1-34,Florida,Surficial   ,Public supply,33.53
+SURFPAS1-35,Florida,Surficial   ,Public supply,36.58
+SURFPAS1-36,Florida,Surficial   ,Public supply,25.91
+SURFPAS1-37,Georgia,Surficial   ,Public supply,56.39
+SURFPAS1-38,Georgia,Surficial   ,Public supply,67.06
+SURFPAS1-39,Georgia,Surficial   ,Public supply,67.06
+SURFPAS1-40,Georgia,Surficial   ,Public supply,62.48
+SURFPAS1-41,South Carolina,Surficial   ,Public supply,15.85
+SURFPAS1-42,South Carolina,Surficial   ,Public supply,17.07
+SURFPAS1-43,South Carolina,Surficial   ,Domestic,15.85
+SURFPAS1-44,South Carolina,Surficial   ,Public supply,22.25
+SURFPAS1-45,South Carolina,Surficial   ,Domestic,13.72
+SURFPAS1-U01,Florida,Surficial   ,Public supply,13.11
+SURFPAS1-U02,Florida,Surficial   ,Public supply,9.75
+SURFPAS1-U03,Florida,Surficial   ,Public supply,47.85
+SURFPAS1-U04,Florida,Surficial   ,Public supply,39.62
+SURFPAS1-U05,Florida,Surficial   ,Monitoring,45.72
+SURFPAS1-U06,Florida,Surficial   ,Public supply,16.46
+SURFPAS1-U07,Florida,Surficial   ,Public supply,78.64
+SURFPAS1-U08,Florida,Surficial   ,Public supply,33.53
+SURFPAS1-U09,Florida,Surficial   ,Public supply,45.72
+SURFPAS1-U10,Florida,Surficial   ,Public supply,47.24
+SURFPAS1-U11,Florida,Surficial   ,Public supply,35.05
+SURFPAS1-U12,Florida,Surficial   ,Public supply,33.53
+SURFPAS1-U13,Florida,Surficial   ,Public supply,32.00
+SURFPAS1-U14,Georgia,Surficial   ,Public supply,73.15

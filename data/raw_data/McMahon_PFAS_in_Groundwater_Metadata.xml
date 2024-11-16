@@ -1,0 +1,581 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Peter B. McMahon</origin>
+        <origin>Laura M. Bexfield</origin>
+        <origin>Elise Watson</origin>
+        <origin>Tyler D. Johnson</origin>
+        <origin>Andrea K. Tokranov</origin>
+        <origin>Bruce D. Lindsey</origin>
+        <pubdate>20220203</pubdate>
+        <title>Geochemical and Geospatial Data for Per- and Polyfluoroalkyl Substances (PFAS) in Groundwater Used as a Source of Drinking Water in the Eastern United States</title>
+        <geoform>tabular digital data</geoform>
+        <serinfo>
+          <sername>U.S. Geological Survey Data Release</sername>
+          <issue>--</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Reston, Va.</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <othercit>Suggested citation: McMahon, P.B., Bexfield, L.M., Watson, E., Johnson, T.D., Tokranov, A.K., and Lindsey, B.D., 2022, Geochemical and Geospatial Data for Per- and Polyfluoroalkyl Substances (PFAS) in Groundwater Used as a Source of Drinking Water in the Eastern United States: U.S. Geological Survey data release, https://doi.org/10.5066/P9R7UJYV.</othercit>
+        <onlink>https://doi.org/10.5066/P9R7UJYV</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Peter B. McMahon</origin>
+            <origin>Andrea K. Tokranov</origin>
+            <origin>Laura M. Bexfield</origin>
+            <origin>Bruce D. Lindsey</origin>
+            <origin>Tyler D. Johnson</origin>
+            <origin>Melissa A. Lombard</origin>
+            <origin>Elise Watson</origin>
+            <pubdate>2022</pubdate>
+            <title>Perfluoroalkyl and Polyfluoroalkyl Substances in Groundwater Used as a Source of Drinking Water in the Eastern United States</title>
+            <geoform>publication</geoform>
+            <serinfo>
+              <sername>Environmental Science and Technology</sername>
+              <issue>--</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Washington, D.C.</pubplace>
+              <publish>American Chemical Society</publish>
+            </pubinfo>
+            <othercit>Suggested citation: McMahon, P.B., Tokranov, A.K., Bexfield, L.M., Lindsey, B.D., Johnson, T.D., Lombard, M.A., and Watson, E., 2022, Perfluoroalkyl and Polyfluoroalkyl Substances in Groundwater Used as a Source of Drinking Water in the Eastern United States: Environmental Science and Technology, https://doi.org/10.1021/acs.est.1c04795.</othercit>
+            <onlink>https://doi.org/10.1021/acs.est.1c04795</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Concentrations of inorganic constituents, dissolved organic carbon (DOC), tritium, per- and polyfluoroalkyl substances (PFAS), volatile organic compounds (VOCs), and pharmaceuticals were measured in groundwater samples collected from 254 wells in 2019 and 2020.  Concentrations of inorganic constituents, DOC, VOCs, and pharmaceuticals were measured at the U.S. Geological Survey (USGS) National Water Quality Laboratory in Lakewood, Colorado. Concentrations of tritium were measured at the USGS Tritium Laboratory in Menlo Park, California. Concentrations of PFAS were measured at SGS Laboratory in Orlando, Florida. In addition, several geospatial parameters were determined, including: percentages of selected land uses within 500-meter buffers around sampled wells, nitrogen loading from septic systems within 500-meter buffers around sampled wells, distance to nearest wastewater treatment plant, and distance to selected industry and other potential point sources that could be sources of PFAS to the environment. The data were collected as part of the USGS National Water-Quality (NAWQA) project.
+
+This data release contains 12 tables of well information, laboratory results, geospatial output, and a data dictionary, including:
+1) PFAS_Data_Dictionary.csv – Parameters in each table are defined in this table.
+2) PFAS_BLANK.csv – Concentrations of PFAS in equipment, field, and source-solution blank samples.
+3) PFAS_ENV.csv – Concentrations of PFAS in environmental samples.
+4) PFAS_GEOSPATIAL.csv – Percentages of selected land uses within 500-meter buffers around sampled wells; nitrogen loading from septic systems within 500-meter buffers around sampled wells; distance to nearest wastewater treatment plant; distance to selected industry and other potential point sources that could be sources of PFAS to the environment.
+5) PFAS_INORGANICS_AND_OTHER.csv – Concentration of inorganic constituents, DOC, and tritium.
+6) PFAS_LAB_BLANK.csv – Concentrations of PFAS in laboratory blank samples.
+7) PFAS_PHARMA.csv – Concentrations of pharmaceutical compounds in environmental samples.
+8) PFAS_REP.csv – Concentrations of PFAS in replicate samples.
+9) PFAS_SPIKE_FIELD.csv – Percent recovery for PFAS in field matrix-spike samples.
+10) PFAS_SPIKE_LAB.csv – Percent recovery for PFAS in laboratory reagent-spike and matrix-spike samples.
+11) PFAS_VOCs.csv – Concentrations of VOCs in environmental samples.
+12) PFAS_WELLS.csv – Site characteristics of the sampled wells.</abstract>
+      <purpose>Geochemical data were collected from groundwater to determine the occurrence of PFAS in groundwater and the factors affecting their occurrence. The data were collected as part of the USGS NAWQA project.</purpose>
+      <supplinf>The following protocols or methods supported data collection and analysis:
+
+Field measurements:  Wilde, F. D., variously dated, Field measurements: U.S. Geological Survey Techniques of Water-Resources Invest. book 9, chap. A6, with sec. 6.0–6.8, http://pubs.water.usgs.gov/twri9A6/.
+
+Major ions:  Fishman, M. J., 1993, Methods of analysis by the U.S. Geological Survey National Water Quality Laboratory--Determination of inorganic and organic constituents in water and fluvial sediments: U.S. Geological Survey Open-File Report 93–125, https://doi.org/10.3133/ofr93125.
+
+Per- and polyfluoroalkyl substances:  PFAS Testing; https://www.sgsgroup.us.com/en/environment-health-and-safety/testing-services/product-types/specialty-testing-and-forensics/pfas-testing (accessed December 3, 2020).
+
+Pharmaceuticals:  Furlong, E.T.; Noriega, M.C.; Kanagy, C.J.; Kanagy, L.K.; Coffey, L.J.; Burkhardt, M.R., 2014, Determination of human-use pharmaceuticals in filtered water by direct aqueous injection–high-performance liquid chromatography/tandem mass spectrometry: U.S. Geological Survey Techniques and Methods, Book 5, Chap. B10, https://dx.doi.org/10.3133/tm5B10.
+
+Trace elements:  Garbarino, J. R.; Kanagy, L. K.; Cree, M. E., 2006, Determination of elements in natural-water, biota, sediment, and soil samples using collision/reaction cell inductively coupled plasma–mass spectrometry: U.S. Geological Survey Techniques and Methods, Book 5, Sec. B, Chap. 1, https://pubs.usgs.gov/tm/2006/tm5b1/PDF/TM5-B1.pdf.
+
+Tritium:  Thatcher, L. L.; Janzer, V. J.; Edwards, K. W., 1977, Methods for determination of radioactive substances in water and fluvial sediments: U.S. Geological Survey Techniques of Water-Resources Investigations chap. A–5, https://doi.org/10.3133/twri05A5.
+
+Volatile organic compounds:  Rose, D. L.; Sandstrom, M. W.; Murtagh, L. K., 2016, Determination of heat purgeable and ambient purgeable volatile organic, compounds in water by gas chromatography/mass spectrometry. U.S. Geological Survey Techniques and Methods, book 5, chap. B12, https://doi.org/10.3133/tm5B12.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20190507</begdate>
+          <enddate>20200319</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>observed</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-91.05</westbc>
+        <eastbc>-68.7078</eastbc>
+        <northbc>45.6883</northbc>
+        <southbc>25.1682</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>environment</themekey>
+        <themekey>inlandWaters</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>NAWQA</themekey>
+        <themekey>cycle 3</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>groundwater</themekey>
+        <themekey>PFAS</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:609e8116d34ea221ce3f33e8</themekey>
+      </theme>
+      <place>
+        <placekt>Common geographic areas</placekt>
+        <placekey>Alabama</placekey>
+        <placekey>Florida</placekey>
+        <placekey>Georgia</placekey>
+        <placekey>Illinois</placekey>
+        <placekey>Indiana</placekey>
+        <placekey>Kentucky</placekey>
+        <placekey>Maine</placekey>
+        <placekey>Massachusetts</placekey>
+        <placekey>Mississippi</placekey>
+        <placekey>New Hampshire</placekey>
+        <placekey>Ohio</placekey>
+        <placekey>Pennsylvania</placekey>
+        <placekey>Rhode Island</placekey>
+        <placekey>South Carolina</placekey>
+        <placekey>Tennessee</placekey>
+        <placekey>West Virginia</placekey>
+      </place>
+    </keywords>
+    <accconst>None.  Please see 'Distribution Info' for details.</accconst>
+    <useconst>The geochemical data are not sensitive or classified; however, the locations of public-supply and domestic wells are.  Therefore, locational information has been removed and wells are referenced with a unique NAWQA identifier.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Peter B. McMahon</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntpos>Research Hydrologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Mail Stop 415, W 6th Ave Kipling St</address>
+          <city>Lakewood</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>303-236-6899</cntvoice>
+        <cntfax>303-236-4912</cntfax>
+        <cntemail>pmcmahon@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>NAWQA project for geochemical data; Andrew Lindstrom, Michael Barrette, Drew Pilant, and Nicholas Spalt  for geospatial data from the U.S. Environmental Protection Agency (EPA).</datacred>
+    <native>Data are provided in 12 comma-separated values (.csv) format files generated from Microsoft Excel. This metadata record is provided in Extensible Markup Language (.xml) format.</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Data for PFAS were subjected to an extensive quality-control analysis using data for field blanks and replicates, spike samples, and laboratory blank samples. Field and laboratory blanks were used to examine potential sources of contamination. Field replicates were used to examine concentration variability. Spike samples were used to examine concentration bias.</attraccr>
+    </attracc>
+    <logic>Data were analyzed for logical accuracy before inclusion in the data set.</logic>
+    <complete>All data that passed quality-control checks are included in the dataset.  Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>A formal accuracy assessment of the horizontal positional information in the data set has either not been conducted or is not applicable.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>A formal accuracy assessment of the vertical positional information in the data set has either not been conducted or is not applicable.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Environmental Systems Research Institute (ESRI)</origin>
+            <pubdate>2020</pubdate>
+            <title>ArcGIS Desktop: Release 10.8.1</title>
+            <geoform>application/service</geoform>
+            <pubinfo>
+              <pubplace>Redlands, Ca.</pubplace>
+              <publish>Esri</publish>
+            </pubinfo>
+            <othercit>Esri, 2020, ArcGIS Desktop: Release 10.8.1, Redlands, CA.</othercit>
+            <onlink>https://www.esri.com/en-us/home</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2020</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Esri, 2020</srccitea>
+        <srccontr>ArcGIS software</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>James A. Falcone</origin>
+            <pubdate>2015</pubdate>
+            <title>U.S. conterminous wall-to-wall anthropogenic land use trends (NWALT), 1974–2012</title>
+            <geoform>raster digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey Data Series</sername>
+              <issue>948</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>Suggested citation: Falcone, J.A., 2015, U.S. conterminous wall-to-wall anthropogenic land use trends (NWALT), 1974–2012: U.S. Geological Survey Data Series 948, 33 p. plus appendixes 3–6 as separate files, http://dx.doi.org/10.3133/ds948.</othercit>
+            <onlink>https://doi.org/10.3133/ds948</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1974</begdate>
+              <enddate>2012</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Falcone, 2015</srccitea>
+        <srccontr>NWALT land-use data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Andrew E. LaMotte</origin>
+            <pubdate>2018</pubdate>
+            <title>Estimated nitrogen from septic for the conterminous United States, 2010 (SepN_CONUS_bg_2010)</title>
+            <geoform>vector digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey Data Release</sername>
+              <issue>--</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>Suggested citation: LaMotte, A.E., 2018, Estimated nitrogen from septic for the conterminous United States, 2010 (SepN_CONUS_bg_2010): U.S. Geological Survey data release, https://doi.org/10.5066/P9QTGSI7.</othercit>
+            <onlink>https://doi.org/10.5066/P9QTGSI</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2010</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>LaMotte, 2018</srccitea>
+        <srccontr>Estimated nitrogen</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Kenneth D. Skinner</origin>
+            <origin>Daniel Wise</origin>
+            <pubdate>2019</pubdate>
+            <title>Point-Source Nutrient Loads to Streams of the Conterminous United States, 2012</title>
+            <geoform>tabular digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey Data Release</sername>
+              <issue>--</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Reston, Va.</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>Suggested citation: Skinner, K.D., and Wise, D., 2019, Point-Source Nutrient Loads to Streams of the Conterminous United States, 2012: U.S. Geological Survey data release, https://doi.org/10.5066/P9PYVPFT.</othercit>
+            <onlink>https://doi.org/10.5066/P9PYVPFT</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2012</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Skinner and Wise, 2019</srccitea>
+        <srccontr>Point-source nutrient loads</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>EPA</origin>
+            <pubdate>2020</pubdate>
+            <title>Enforcement and Compliance History Online (ECHO) data base</title>
+            <geoform>tabular digital data</geoform>
+            <pubinfo>
+              <pubplace>Washington, D.C.</pubplace>
+              <publish>EPA</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2020</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>EPA, 2020</srccitea>
+        <srccontr>ECHO data are proprietary.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Department of Homeland Security (DHS)</origin>
+            <pubdate>2012</pubdate>
+            <title>Homeland Security HSIP gold 2012 data base</title>
+            <geoform>tabular digital data</geoform>
+            <pubinfo>
+              <pubplace>Washington, D.C.</pubplace>
+              <publish>Department of Homeland Security</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2012</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>DHS, 2012</srccitea>
+        <srccontr>Data are proprietary.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Selected environmental and field-blank samples analyzed for VOCs had detections of bromodichloromethane, methyl tert-butyl ether, or trichloromethane. For those compounds and environmental samples, concentrations are censored at 10 times the highest concentration in the blank sample by placing “&lt;” in front of a reported concentration equal to 10 times the highest concentration in the blank sample.</procdesc>
+        <procdate>2021</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Selected environmental and field-blank samples analyzed for pharmaceutical compounds had detections of hexamethylenetetramine. For that compound and those environmental samples, concentrations are censored at 10 times the highest concentration in the blank sample by placing “&lt;” in front of a reported concentration equal to 10 times the highest concentration in the blank sample.</procdesc>
+        <procdate>2021</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Some environmental samples with detections of selected PFAS, VOCs, or pharmaceuticals also had those compounds detected in an associated laboratory-blank sample. For those compounds, the concentrations in the environmental samples were modified by placing “&lt;” in front of the reported concentration.</procdesc>
+        <procdate>2021</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>The geospatial data were generated from existing data using standard ArcGIS tools (ESRI, 2020).  Processing procedures included: 1) A 500-meter radius buffer was drawn around each well and the percentage of each NWALT land-use class (Falcone, 2015) was computed within each buffer using the Extract by Mask tool and subsequent calculation of percentages.  The land-use classes were grouped into three classes: Agricultural, Natural, and Urban; 2) A 500-meter radius buffer was drawn around each well and estimated nitrogen values (LaMotte, 2018) derived from septic (in kilograms per year per meter square) were area weighted to provide a single value for each buffer; and 3) The distance, in meters, from each well to the nearest potential PFAS sources (point feature or polygon) were computed using the Near tool. For polygons, the centroid of the feature or the nearest edge of the polygon boundary was used.</procdesc>
+        <procdate>2021</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>PFAS_WELLS.csv</enttypl>
+        <enttypd>Comma-separated values file containing location and completion information about the wells.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>NAWQA_ID</attrlabl>
+        <attrdef>NAWQA well identification number.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>NAWQA_ID numbers are used as a substitute for the 15-digit USGS well number because that number is created using the latitude and longitude of the well and therefore could be used to precisely locate the well.  To restrict that information, a non-location reference number is created.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>State in the United States in which the well is located</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>See Place Keywords for all 16 states in this data release.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AQUIFER</attrlabl>
+        <attrdef>Principal aquifer name.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Glacial</edomv>
+            <edomvd>Aquifer system in the northern United States primarily composed of unconsolidated sand and gravel. In this study, the Glacial aquifer system was sampled in Indiana, Maine, Massachusetts, New Hampshire, Ohio, and Rhode Island.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Mississippi Embayment</edomv>
+            <edomvd>Aquifer system in the central United States primarily composed of semiconsolidated sand and gravel. In this study, the Mississippi Embayment aquifer system was sampled Mississippi and Tennessee.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southeastern Coastal Plain</edomv>
+            <edomvd>Aquifer system in the southeastern United States primarily composed of semiconsolidated sand and gravel. In this study, the Southeastern Coastal Plain aquifer system was sampled in Alabama and Mississippi.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Stream Valley</edomv>
+            <edomvd>Aquifer system in the north-central United States primarily composed of unconsolidated sand and gravel. In this study, the Ohio River Stream Valley aquifer system was sampled in Illinois, Indiana, Kentucky, Ohio, Pennsylvania, and West Virginia.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Surficial</edomv>
+            <edomvd>Aquifer system in the southeastern United States primarily composed of unconsolidated sand and gravel. In this study, the Surficial aquifer system was sampled in Florida, Georgia, and South Carolina.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WELLTYPE</attrlabl>
+        <attrdef>Primary water use of the well.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Domestic</edomv>
+            <edomvd>A privately owned well that typically serves one home and supplies water for human consumption and other homeowner uses.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Monitoring</edomv>
+            <edomvd>A well used to measure water quality or groundwater levels continuously or periodically. Not typically used as a source of drinking water. Sometimes referred to as an “observation well.”.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Public supply</edomv>
+            <edomvd>A privately or publicly owned well that provides water for public use to (1) a community water system, (2) a transient noncommunity water system, such as a campground, or (3) a nontransient, noncommunity system, such as a school.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Other or unknown</edomv>
+            <edomvd>Type is different than the previous three or unknown.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DEPTH</attrlabl>
+        <attrdef>Well depth, in meters.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Empty cell</edomv>
+            <edomvd>Indicates no depth data were available</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>2.44</rdommin>
+            <rdommax>286.51</rdommax>
+            <attrunit>Meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>PFAS_Data_Dictionary.csv</enttypl>
+        <enttypd>Comma-separated values file containing the parameter definitions for the various data tables.</enttypd>
+        <enttypds>Producer defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>TABLE</attrlabl>
+        <attrdef>The table in this data release in which the parameter is provided.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>10 tables are shown, including:
+1) PFAS_BLANK.csv – Concentrations of PFAS in equipment, field, and source-solution blank samples.
+2) PFAS_ENV.csv – Concentrations of PFAS in environmental samples.
+3) PFAS_GEOSPATIAL.csv – Percentages of selected land uses within 500-meter buffers around sampled wells; nitrogen loading from septic systems within 500-meter buffers around sampled wells; distance to nearest wastewater treatment plant; distance to selected industry and other potential point sources that could be sources of PFAS to the environment.
+4) PFAS_INORGANICS_AND_OTHER.csv – Concentration of inorganic constituents, DOC, and tritium.
+5) PFAS_LAB_BLANK.csv – Concentrations of PFAS in laboratory blank samples.
+6) PFAS_PHARMA.csv – Concentrations of pharmaceutical compounds in environmental samples.
+7) PFAS_REP.csv – Concentrations of PFAS in replicate samples.
+8) PFAS_SPIKE_FIELD.csv – Percent recovery for PFAS in field matrix-spike samples.
+9) PFAS_SPIKE_LAB.csv – Percent recovery for PFAS in laboratory reagent-spike and matrix-spike samples.
+10) PFAS_VOCs.csv – Concentrations of VOCs in environmental samples.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PARAMETER</attrlabl>
+        <attrdef>The name of the parameter or remark code provided in the table.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Parameter name is typically a shortened name.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DEFINITION</attrlabl>
+        <attrdef>Definition of the parameter name or remark code.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <udom>Definition of the parameter name or remark code.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>GS ScienceBase</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty.</distliab>
+    <custom>All data contained in this data release are available at https://doi.org/10.5066/P9R7UJYV, with the exception of proprietary data on the locations of potential PFAS sources from, 1) the U.S. Environmental Protection Agency Enforcement and Compliance History Online (ECHO) data base, and 2) the U.S. Department of Homeland Security.</custom>
+  </distinfo>
+  <metainfo>
+    <metd>20220203</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jennifer B. Sharpe</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntpos>Geographer</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>405 N. Goodwin Avenue</address>
+          <city>Urbana</city>
+          <state>IL</state>
+          <postal>61801</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>217-328-9731</cntvoice>
+        <cntfax>217-328-9770</cntfax>
+        <cntemail>jbsharpe@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC CSDGM</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <metuc>Record created using USGS Metadata Wizard tool. (https://github.com/usgs/fort-pymdwizard)</metuc>
+  </metainfo>
+</metadata>
